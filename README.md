@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/68938473/137610020-3ada9bf1-d9fe-4f7d-9568-2a8af1a19a67.png)
 
 <!--
 **jorrgeCruz/jorrgeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
