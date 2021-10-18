@@ -12,7 +12,8 @@ Universidad Autónoma Benito Juárez de Oaxaca como Profesor de cátedra en la E
 - 🌱 I’m currently learning ...
 
 REACT, JS, TS y muchas mas, y algo de los mas releve¡ante  es fui aceptaco en el Programa Platzi Master de Platzi en el cohort 8, yeahh.
-![image](https://user-images.githubusercontent.com/68938473/137610158-8cceace0-5128-4ab5-a79c-33168ce99c15.png =300x250)
+<img src="https://user-images.githubusercontent.com/68938473/137610158-8cceace0-5128-4ab5-a79c-33168ce99c15.png" alt="drawing" width="300"/>
+
 
 🎯   Some technologies I use:
 
@@ -27,6 +28,7 @@ REACT, JS, TS y muchas mas, y algo de los mas releve¡ante  es fui aceptaco en e
   <img align="" src="https://github-readme-stats.vercel.app/api?username=jorrgecruz&theme=buefy&show_icons=true&hide=contribs" />
 </p>
 <!--
+![image](https://user-images.githubusercontent.com/68938473/137610158-8cceace0-5128-4ab5-a79c-33168ce99c15.png =300x250)
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=alexcamachogz.alexcamachogz" />
 </p>
