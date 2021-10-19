@@ -9,9 +9,10 @@ Cuento con más de 15 de experiencia docente a nivel Universidad en el área de 
 - 🔭 I’m currently working on ...
 
 Universidad Autónoma Benito Juárez de Oaxaca como Profesor de cátedra en la Escuela de Ciencias en las Licenciaturas de: Física, Matemáticas, Computación
+
 - 🌱 I’m currently learning ...
 
-REACT, JS, TS y muchas mas, y algo de los mas releve¡ante  es fui aceptaco en el Programa Platzi Master de Platzi en el cohort 8, yeahh.
+REACT, JS, TS y muchas más, y algo de los más relevante  es que fui aceptado en el Programa Platzi Master de Platzi en el cohort 8, yeahh.
 <img src="https://user-images.githubusercontent.com/68938473/137610158-8cceace0-5128-4ab5-a79c-33168ce99c15.png" alt="drawing" width="300"/>
 
 
