@@ -4,7 +4,7 @@
 ---
 Quié soy:
 Cuento con más de 15 de experiencia docente a nivel Universidad en el área de Ciencias de la Computación, soy apasionado de las TI y Programación, con gran habilidad para la resolución de problemas, trabajo en equipo, colaborativo, y adaptabilidad a las nuevas tecnologías y autodidacta.
-
+![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 ---
 - 🔭 I’m currently working on ...
 
