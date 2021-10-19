@@ -28,7 +28,7 @@ REACT, JS, TS y muchas más, y algo de los más relevante  es que fui aceptado e
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lego-E34F26?style=for-the-badge&logo=lego5&logoColor=white" alt="Lego" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LegoMindStorms-E34F26?style=for-the-badge&logo=LegoMindStorms&logoColor=white" alt="LegoMindStorms" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Arduino-333333?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
