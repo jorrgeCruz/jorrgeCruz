@@ -15,6 +15,7 @@ Universidad Autónoma Benito Juárez de Oaxaca as Professor in the Science's Sch
 - 🌱 I’m currently learning ...
 
 REACT, JS, TS y much more, besides that I was acepted to the Platzi Master Program at cohort 8, yeahh.
+
 <img src="https://user-images.githubusercontent.com/68938473/137610158-8cceace0-5128-4ab5-a79c-33168ce99c15.png" alt="drawing" width="200"/>
 
 
@@ -28,6 +29,7 @@ REACT, JS, TS y much more, besides that I was acepted to the Platzi Master Progr
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="Java" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Latex-00FF00?style=for-the-badge&logo=latex&logoColor=white" alt="LaTex" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Markdown-00FF00?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown" />&nbsp;&nbsp;
