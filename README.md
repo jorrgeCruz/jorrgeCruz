@@ -1,11 +1,14 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/68938473/138196675-6931443a-26ac-4531-b414-3102ea225fb8.png)
+
+![image](https://user-images.githubusercontent.com/68938473/138203457-be0e5c58-250d-4ebb-a539-061099b7a33e.png)
+
 
 ---
 About me:👨‍💻
 
 I have more than 15 years of teaching experience at the University level in the area of Computer Science, I am passionate about IT and Programming, with great ability to solve problems, teamwork, collaborative, and adaptability to new technologies and Autodidact.
 ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
+
 ---
 
 - 🔭 I’m currently working on ...
