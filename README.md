@@ -7,7 +7,7 @@
 About me:👨‍💻
 
 I have more than 15 years of teaching experience at the University level in the area of Computer Science, I am passionate about IT and Programming, with great ability to solve problems, teamwork, collaborative, and adaptability to new technologies and Autodidact.
-![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
+
 
 ---
 
