@@ -17,9 +17,8 @@ Universidad Autónoma Benito Juárez de Oaxaca as Professor in the Science's Sch
 
 - 🌱 I’m currently learning ...
 
-REACT, JS, TS y much more, besides that I was acepted to the Platzi Master Program at cohort 8, yeahh.
+REACT, JS, TS y much more, besides that I already have mora than a year with the Platzi Platform were I have achieve enourmous goals, like the Englis School, Ths JavasScript Schosl and the Pgrogram Fundament School.
 
-<img src="https://user-images.githubusercontent.com/68938473/137610158-8cceace0-5128-4ab5-a79c-33168ce99c15.png" alt="drawing" width="200"/>
 
 
 🎯   Some technologies I use:
