@@ -1,12 +1,5 @@
 # Hi there 👋
 
-LISTA ORDENADA
-1. UNO
-  1. SUB
-  2. DOS
-2. DOS
-3. TRES
-
 ![image](https://user-images.githubusercontent.com/68938473/138203457-be0e5c58-250d-4ebb-a539-061099b7a33e.png)
 
 
