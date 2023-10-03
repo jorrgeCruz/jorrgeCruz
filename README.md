@@ -70,3 +70,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  LISTA ORDENADA
+1. UNO
+  1. SUB
+  2. DOS
+2. DOS
+3. TRES
