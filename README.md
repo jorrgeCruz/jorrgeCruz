@@ -57,6 +57,13 @@ REACT, JS, TS y much more, besides that I already have mora than a year with the
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=alexcamachogz.alexcamachogz" />
 </p>
 
+LISTA ORDENADA
+1. UNO
+  1. SUB
+  2. DOS
+2. DOS
+3. TRES
+
 **jorrgeCruz/jorrgeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
